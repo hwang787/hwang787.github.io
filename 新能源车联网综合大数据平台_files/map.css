@@ -13,7 +13,7 @@ body{background:#010e50 url(back2.png) center top no-repeat;background-size:100%
 .data>.data-title{width:100%;height:90px;box-sizing:border-box}
 .data>.data-title>.title-center{text-shadow:3px 3px 3px rgba(0,0,0,.3);text-align:center;line-height:80px;letter-spacing:4px;color:#fff;font-size:40px;font-weight:bolder;box-sizing:border-box}
 .data>.data-content{width:100%;height:calc(100% - 105px);padding:0 20px 20px 20px;box-sizing:border-box}
-.data>.data-content>.con-left{width:23.4375%;height:100%}
+.data>.data-content>.con-left{width:27.4375%;height:100%}
 .data>.data-content>.con-left>.left-top{width:100%;height:calc(75% - 15px);position:relative}
 .data>.data-content>.con-left>.left-top>.info{height:62%;width:100%}
 
