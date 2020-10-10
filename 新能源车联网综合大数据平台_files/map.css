@@ -32,7 +32,7 @@ body{background:#010e50 url(back2.png) center top no-repeat;background-size:100%
 
 .con-left>.left-top>.top-bottom{height:calc(38% - 20px);width:100%}
 .con-left>.left-bottom{width:100%;height:25%}
-.con-center{width:48.125%;height:100%;padding:0 20px;box-sizing:border-box;position:relative}
+.con-center{width:44.125%;height:100%;padding:0 20px;box-sizing:border-box;position:relative}
 .map-num{width:500px;height:120px;position:absolute;top:15px;left:50px;z-index:1000}
 .map-num>p{font-size:18px;font-weight:600;color:#fff}
 .map-num span{display:inline-block;width:50px;height:65px;text-align:center;line-height:65px;
